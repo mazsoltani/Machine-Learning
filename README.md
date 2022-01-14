@@ -1,4 +1,4 @@
-# Machine_Mearning
+# Machine_Learning
 
 ## Assignment 31
 
